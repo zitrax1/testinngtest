@@ -1,0 +1,6 @@
+# ignoring .рус
+*.рус
+
+# ignoring all in dir /cache
+
+/cache/*
